@@ -6,9 +6,10 @@ color:
   saturation: 0.23107270780019462
   rhythmicContrast: 0.2323716313112527
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: analogmodern
+title: analog modern
