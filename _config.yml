@@ -16,5 +16,8 @@ navigation:
   - name: furniture
     id: 822df403-8fa9-4c95-a0d1-990762c85965
     type: content
+  - name: about
+    id: 6580d3b5-1af3-4684-a9e8-95dc84fcc48c
+    type: content
 title: analog modern
 description: modern lines drawn from traditional craft
