@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-07-29T15:01:38.534Z'
+datePublished: '2016-07-29T17:40:35.805Z'
 sourcePath: >-
   _posts/2016-04-16-coming-clean-dirty-lemon-makes-detoxing-a-little-easier-or-l.md
 inFeed: true
-isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/dirty-lemon-makes-detoxing-a-little-easier'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - lemon
   - detox
@@ -21,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-29T15:01:38.137Z'
+dateModified: '2016-07-29T17:40:34.532Z'
 title: 'Coming clean: Dirty Lemon makes detoxing a little easier.'
 app_links: []
 publisher:
@@ -38,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: coming-clean-dirty-lemon-makes-detoxing-a-little-easier/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
