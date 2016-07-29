@@ -1,0 +1,14 @@
+layout_spectrum: 0.398696482880041
+typography_spectrum: 0.3576558621134609
+color:
+  brandStrength: 0.5528353431727737
+  lightness: 0.5498797073960304
+  saturation: 0.23107270780019462
+  rhythmicContrast: 0.2323716313112527
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: analogmodern
