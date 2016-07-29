@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-29T15:01:38.533Z'
+datePublished: '2016-07-29T15:09:37.578Z'
 sourcePath: _posts/2016-04-16-femton-an-organic-workout-collection-from-ali-safa-a-and.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/femton-workout-gear-made-from-natural-materials-analogue-ways
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - safa
   - workout
@@ -21,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-29T15:01:38.111Z'
+dateModified: '2016-07-29T15:09:37.333Z'
 title: '''Femton'': an organic workout collection from Ali Safa A and Analogue Ways.'
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: femton-an-organic-workout-collection-from-ali-safa-a-and/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
