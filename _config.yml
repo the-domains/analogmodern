@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.398696482880041
 name: analogmodern
+navigation:
+  - name: furniture
+    id: 822df403-8fa9-4c95-a0d1-990762c85965
+    type: content
 title: analog modern
 description: modern lines drawn from traditional craft
