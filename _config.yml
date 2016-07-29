@@ -1,4 +1,3 @@
-layout_spectrum: 0.398696482880041
 typography_spectrum: 0.3576558621134609
 color:
   brandStrength: 0.5528353431727737
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.398696482880041
 name: analogmodern
 title: analog modern
+description: modern lines drawn from traditional craft
